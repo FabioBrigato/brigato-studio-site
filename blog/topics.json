@@ -1,0 +1,89 @@
+{
+  "topics": [
+    {
+      "categoria": "nightlife",
+      "titolo": "Fotografo nightlife Verona: cosa succede davvero dietro le quinte",
+      "keyword_principale": "fotografo nightlife Verona",
+      "keywords_secondarie": ["foto serate Verona", "fotografo discoteche Verona", "nightlife photography Verona"],
+      "angolo": "Racconto in prima persona di come funziona una serata: preparazione, attrezzatura, gestione della luce artificiale, consegna materiale"
+    },
+    {
+      "categoria": "nightlife",
+      "titolo": "Come scegliere il fotografo per la tua discoteca a Verona",
+      "keyword_principale": "fotografo discoteca Verona",
+      "keywords_secondarie": ["fotografo serate Verona", "foto locali notturni Verona"],
+      "angolo": "Guida pratica per i gestori di locali: cosa guardare nel portfolio, cosa chiedere, differenza tra fotografo amatoriale e professionista"
+    },
+    {
+      "categoria": "nightlife",
+      "titolo": "Foto serate: perché il tuo locale ha bisogno di contenuti professionali",
+      "keyword_principale": "foto serate locali Verona",
+      "keywords_secondarie": ["contenuti social discoteca Verona", "marketing nightlife Verona"],
+      "angolo": "Prospettiva marketing: come le foto professionali aumentano le prenotazioni e costruiscono l'identità del locale sui social"
+    },
+    {
+      "categoria": "corporate",
+      "titolo": "Fotografo eventi aziendali Verona: cosa non deve mancare in un report fotografico",
+      "keyword_principale": "fotografo eventi aziendali Verona",
+      "keywords_secondarie": ["foto convention Verona", "fotografo corporate Verona", "foto keynote Verona"],
+      "angolo": "Lista pratica dei momenti chiave da documentare in un evento aziendale: relatori, networking, dettagli, atmosfera"
+    },
+    {
+      "categoria": "corporate",
+      "titolo": "Quanto costa un fotografo per eventi aziendali a Verona",
+      "keyword_principale": "costo fotografo eventi aziendali Verona",
+      "keywords_secondarie": ["prezzi fotografo corporate Verona", "preventivo fotografo evento aziendale"],
+      "angolo": "Guida trasparente ai range di prezzo, cosa influenza il costo, come richiedere un preventivo corretto"
+    },
+    {
+      "categoria": "corporate",
+      "titolo": "Video recap aziendale: perché ogni evento dovrebbe avere il suo aftermovie",
+      "keyword_principale": "video recap eventi aziendali Verona",
+      "keywords_secondarie": ["aftermovie evento aziendale", "video corporate Verona"],
+      "angolo": "Valore del video recap per comunicazione interna, LinkedIn, marketing post-evento. Esempi concreti di utilizzo"
+    },
+    {
+      "categoria": "eventi",
+      "titolo": "Fotografo eventi Verona: come documentare un opening di successo",
+      "keyword_principale": "fotografo eventi Verona",
+      "keywords_secondarie": ["fotografo opening Verona", "foto inaugurazione Verona", "brand activation Verona"],
+      "angolo": "Anatomia di un opening fotografato bene: sequenza narrativa, momenti da non perdere, output per social e stampa"
+    },
+    {
+      "categoria": "eventi",
+      "titolo": "Brand activation Verona: il ruolo della fotografia nel marketing esperienziale",
+      "keyword_principale": "brand activation Verona",
+      "keywords_secondarie": ["fotografo brand activation Verona", "eventi promozionali Verona"],
+      "angolo": "Come le foto di una brand activation diventano asset di marketing riutilizzabili: ADV, sito, comunicati stampa"
+    },
+    {
+      "categoria": "visual",
+      "titolo": "Food photography Verona: come fotografare un menù per Instagram",
+      "keyword_principale": "food photography Verona",
+      "keywords_secondarie": ["fotografo food Verona", "foto menù ristorante Verona", "contenuti Instagram ristorante Verona"],
+      "angolo": "Consigli pratici per ristoratori: luce, composizione, selezione piatti, frequenza di pubblicazione"
+    },
+    {
+      "categoria": "visual",
+      "titolo": "Contenuti social per bar e ristoranti a Verona: la guida pratica",
+      "keyword_principale": "contenuti social ristoranti Verona",
+      "keywords_secondarie": ["fotografo bar Verona", "social media ristorante Verona", "foto drink Verona"],
+      "angolo": "Piano editoriale Instagram per un locale: quante foto, quali format, come usare Reels e Stories per aumentare i coperti"
+    },
+    {
+      "categoria": "nightlife",
+      "titolo": "Recap verticali per discoteche: come usarli per riempire la prossima serata",
+      "keyword_principale": "recap verticali discoteca Verona",
+      "keywords_secondarie": ["video Reels discoteca Verona", "TikTok serata nightlife Verona"],
+      "angolo": "Strategia concreta: come usare un recap di 30-60 secondi per promuovere l'evento successivo su Instagram e TikTok"
+    },
+    {
+      "categoria": "corporate",
+      "titolo": "Convention aziendale Verona: come organizzare la documentazione fotografica",
+      "keyword_principale": "fotografo convention Verona",
+      "keywords_secondarie": ["foto convention aziendale Verona", "fotografo conferenza Verona"],
+      "angolo": "Checklist pre-evento per il responsabile marketing: brief al fotografo, lista momenti chiave, tempistiche di consegna"
+    }
+  ],
+  "ultimo_indice": 0
+}
